@@ -26,3 +26,7 @@
 	path = LEVEL1/movie-review-step1
 	url = https://github.com/00kang/javascript-movie-review.git
 	branch = step1
+[submodule "LEVEL1/movie-review-step2"]
+	path = LEVEL1/movie-review-step2
+	url = https://github.com/00kang/javascript-movie-review.git
+	branch = step2
