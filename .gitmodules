@@ -6,3 +6,7 @@
 	path = LEVEL1/racingcar-step2
 	url = https://github.com/00kang/javascript-racingcar.git
 	branch = step2
+[submodule "LEVEL1/lotto-step1"]
+	path = LEVEL1/lotto-step1
+	url = https://github.com/00kang/javascript-lotto.git
+	branch = step1
