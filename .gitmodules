@@ -18,3 +18,7 @@
 	path = LEVEL1/lunch-step1
 	url = https://github.com/00kang/javascript-lunch.git
 	branch = step1
+[submodule "LEVEL1/lunch-step2"]
+	path = LEVEL1/lunch-step2
+	url = https://github.com/00kang/javascript-lunch.git
+	branch = step2
