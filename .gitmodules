@@ -30,3 +30,7 @@
 	path = LEVEL1/movie-review-step2
 	url = https://github.com/00kang/javascript-movie-review.git
 	branch = step2
+[submodule "LEVEL2/payments-step1"]
+	path = LEVEL2/payments-step1
+	url = https://github.com/00kang/react-payments.git
+	branch = step1
