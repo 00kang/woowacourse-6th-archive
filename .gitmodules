@@ -38,3 +38,7 @@
 	path = LEVEL2/payments-step2
 	url = https://github.com/00kang/react-payments.git
 	branch = step2
+[submodule "LEVEL2/modules-step1"]
+	path = LEVEL2/modules-step1
+	url = https://github.com/00kang/react-modules.git
+	branch = step1
