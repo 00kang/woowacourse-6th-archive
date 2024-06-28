@@ -45,20 +45,20 @@
 </div>
 </details>
 
-| **MISSION**    | **STEP** | **PAIR**                            | **REVIEWER** |
-| -------------- | -------- | ----------------------------------- | ------------ |
-| payments       | 1        | [@다르](https://github.com/pp449)   | 피터         |
-| payments       | 2        | -                                   | 피터         |
-| modules        | 1        | [@리버](https://github.com/0jenn0)  | 블링         |
-| modules        | 2        | -                                   | 블링         |
-| shoppiing-cart | 1        | [@썬데이](https://github.com/useon) | 호프         |
-| shoppiing-cart | 2        | -                                   | 호프         |
-|                | 1        |                                     |              |
-|                | 2        | -                                   |              |
+| **MISSION**       | **STEP** | **PAIR**                             | **REVIEWER** |
+| ----------------- | -------- | ------------------------------------ | ------------ |
+| payments          | 1        | [@다르](https://github.com/pp449)    | 피터         |
+| payments          | 2        | -                                    | 피터         |
+| modules           | 1        | [@리버](https://github.com/0jenn0)   | 블링         |
+| modules           | 2        | -                                    | 블링         |
+| shopping-cart     | 1        | [@썬데이](https://github.com/useon)  | 호프         |
+| shopping-cart     | 2        | -                                    | 호프         |
+| shopping-products | 1        | [@쑤쑤](https://github.com/soosoo22) | 하루         |
+| shopping-products | 2        | -                                    | 하루         |
 
 <br/>
 
-### :three: 레벨3 - 팀 프로젝트 (2024. ~ 2024.)
+### :three: 레벨3 - 팀 프로젝트 (2024.07.02 ~ 2024.08.23)
 
 <details>
 <summary>레벨3 학습 목표 접기/펼치기</summary>
@@ -72,7 +72,7 @@
 
   <br/>
 
-### :four: 레벨4 - 웹 프로그래밍 심화, 팀 프로젝트 유지보수 (2024. ~ 2024.)
+### :four: 레벨4 - 웹 프로그래밍 심화, 팀 프로젝트 유지보수 (2024.09.03 ~ 2024.11.01)
 
 <details>
 <summary>레벨4 학습 목표 접기/펼치기</summary>
@@ -82,6 +82,17 @@
 - 레거시 코드를 점진적으로 리팩터링하고 애플리케이션 설계 역량을 높입니다.
 - 브라우저의 동작 원리와 네트워크에 대해 이해하고 프론트엔드 웹 애플리케이션의 성능을 최적화합니다.
 - JavaScript만으로 프레임워크와 라이브러리를 직접 구현하며 그 동작 원리를 탐구합니다.
+
+</div>
+</details>
+
+  <br/>
+
+### :five: 레벨5 - (2024.11.04 ~ 2024.11.29)
+
+<details>
+<summary>레벨5 학습 목표 접기/펼치기</summary>
+<div markdown="1">
 
 </div>
 </details>
