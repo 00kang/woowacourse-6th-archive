@@ -54,3 +54,7 @@
 	path = LEVEL2/shopping-cart--step2
 	url = https://github.com/00kang/react-shopping-cart
 	branch = step2
+[submodule "LEVEL2/shopping-products-step1"]
+	path = LEVEL2/shopping-products-step1
+	url = https://github.com/00kang/react-shopping-products
+	branch = step1
