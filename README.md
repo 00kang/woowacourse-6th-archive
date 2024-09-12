@@ -70,6 +70,10 @@
 </div>
 </details>
 
+|**PROJECTS**|**BACKEND**|**FRONTEND**|
+|------------|-----------|------------|
+|CoReA [v1.0.0](https://github.com/woowacourse-teams/2024-corea/releases/tag/v1.0.0)       |[@무빈](https://github.com/hjk0761) [@뽀로로](https://github.com/jcoding-play) [@애쉬](https://github.com/ashsty) [@조이썬](https://github.com/youngsu5582)     |[@다르](https://github.com/pp449) [@초코](https://github.com/00kang) [@텐텐](https://github.com/chlwlstlf)|
+
   <br/>
 
 ### :four: 레벨4 - 웹 프로그래밍 심화, 팀 프로젝트 유지보수 (2024.09.03 ~ 2024.11.01)
