@@ -18,16 +18,16 @@
 </div>
 </details>
 
-| **MISSION**  | **STEP** | **PAIR**                                   | **REVIEWER** |
-| ------------ | -------- | ------------------------------------------ | ------------ |
-| racing-car   | 1        | [@바다](https://github.com/BadaHertz52)    | 블링         |
-| racing-car   | 2        | -                                          | 블링         |
-| lotto        | 1        | [@월하](https://github.com/vi-wolhwa)      | 브콜         |
-| lotto        | 2        | -                                          | 브콜         |
-| lunch        | 1        | [@렛서](https://github.com/llqqssttyy)     | 케빈         |
-| lunch        | 2        | -                                          | 케빈         |
-| movie-review | 1        | [@마스터위](https://github.com/Jaymyong66) | 유조         |
-| movie-review | 2        | -                                          | 유조         |
+| **MISSION**  | **STEP** | **미션PR 바로가기** | **PAIR**                                   | **REVIEWER** |
+| ------------ | -------- | ------------------- | ------------------------------------------ | ------------ |
+| racing-car   | 1        | [PR링크](https://github.com/woowacourse/javascript-racingcar/pull/273) | [@바다](https://github.com/BadaHertz52)    | 블링         |
+| racing-car   | 2        | [PR링크](https://github.com/woowacourse/javascript-racingcar/pull/316) |  -                                          | 블링         |
+| lotto        | 1        | [PR링크](https://github.com/woowacourse/javascript-lotto/pull/290) |  [@월하](https://github.com/vi-wolhwa)      | 브콜         |
+| lotto        | 2        | [PR링크](https://github.com/woowacourse/javascript-lotto/pull/327) |  -                                          | 브콜         |
+| lunch        | 1        | [PR링크](https://github.com/woowacourse/javascript-lunch/pull/127) |  [@렛서](https://github.com/llqqssttyy)     | 케빈         |
+| lunch        | 2        | [PR링크](https://github.com/woowacourse/javascript-lunch/pull/176) |  -                                          | 케빈         |
+| movie-review | 1        | [PR링크](https://github.com/woowacourse/javascript-movie-review/pull/124) |  [@마스터위](https://github.com/Jaymyong66) | 유조         |
+| movie-review | 2        | [PR링크](https://github.com/woowacourse/javascript-movie-review/pull/171) |  -                                          | 유조         |
 
 <br/>
 
@@ -45,16 +45,16 @@
 </div>
 </details>
 
-| **MISSION**       | **STEP** | **PAIR**                             | **REVIEWER** |
-| ----------------- | -------- | ------------------------------------ | ------------ |
-| payments          | 1        | [@다르](https://github.com/pp449)    | 피터         |
-| payments          | 2        | -                                    | 피터         |
-| modules           | 1        | [@리버](https://github.com/0jenn0)   | 블링         |
-| modules           | 2        | -                                    | 블링         |
-| shopping-cart     | 1        | [@썬데이](https://github.com/useon)  | 호프         |
-| shopping-cart     | 2        | -                                    | 호프         |
-| shopping-products | 1        | [@쑤쑤](https://github.com/soosoo22) | 하루         |
-| shopping-products | 2        | -                                    | 하루         |
+| **MISSION**       | **STEP** |**미션PR 바로가기** | **PAIR**                             | **REVIEWER** |
+| ----------------- | -------- | ------------------- | ------------------------------------ | ------------ |
+| payments          | 1        | [PR링크](https://github.com/woowacourse/react-payments/pull/357) |  [@다르](https://github.com/pp449)    | 피터         |
+| payments          | 2        | [PR링크](https://github.com/woowacourse/react-payments/pull/405) |  -                                    | 피터         |
+| modules           | 1        | [PR링크](https://github.com/woowacourse/react-modules/pull/21) |  [@리버](https://github.com/0jenn0)   | 블링         |
+| modules           | 2        | [PR링크](https://github.com/woowacourse/react-modules/pull/75) |  -                                    | 블링         |
+| shopping-cart     | 1        | [PR링크](https://github.com/woowacourse/react-shopping-cart/pull/321) |  [@썬데이](https://github.com/useon)  | 호프         |
+| shopping-cart     | 2        | [PR링크](https://github.com/woowacourse/react-shopping-cart/pull/274) |  -                                    | 호프         |
+| shopping-products | 1        | [PR링크](https://github.com/woowacourse/react-shopping-products/pull/32) |  [@쑤쑤](https://github.com/soosoo22) | 하루         |
+| shopping-products | 2        | [PR링크](https://github.com/woowacourse/react-shopping-products/pull/77) |  -                                    | 하루         |
 
 <br/>
 
@@ -89,6 +89,10 @@
 
 </div>
 </details>
+
+| **MISSION**       | **미션PR 바로가기** | **REVIEWER** |
+| ----------------- | ------------------- | ------------ |
+| payments          | [PR링크](https://github.com/woowacourse/perf-basecamp/pull/138)        | [@버건디](https://github.com/brgndyy) |
 
   <br/>
 
