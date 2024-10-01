@@ -62,7 +62,7 @@
 	path = LEVEL2/shopping-products--step2
 	url = https://github.com/00kang/react-shopping-products
 	branch = step2
-[submodule "LEVEL4/performance-pre"]
-	path = LEVEL4/performance-pre
-	url = https://github.com/00kang/perf-basecamp.git
+[submodule "LEVEL4/performance-development"]
+	path = LEVEL4/performance-development
+	url = https://github.com/00kang/perf-basecamp
 	branch = 00kang
