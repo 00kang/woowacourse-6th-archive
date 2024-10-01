@@ -66,3 +66,7 @@
 	path = LEVEL4/performance-development
 	url = https://github.com/00kang/perf-basecamp
 	branch = 00kang
+[submodule "LEVEL4/accessibility-development-pre"]
+	path = LEVEL4/accessibility-development-pre
+	url = https://github.com/00kang/self-paced-enhance-usability
+	branch = main
